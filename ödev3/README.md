@@ -88,9 +88,10 @@ Bu ödev, gerçek dünyadaki şu alanlara doğrudan katkı sağlar:
 ## 👨‍💻 Hazırlayan
 
 Ahmet Hüsrev Özcan  
-Bilgisayar Mühendisliği Adayı (2026)  
-Tutkulu bir TypeScript geliştiricisi, UI/UX meraklısı ve bilimsel doğruluk savunucusu
+
+
 
 ---
 
 İstersen bu `README` dosyasını `.md` formatında dışa aktarabilir, GitHub repo açıklaması olarak kullanabilir veya PDF haline getirebilirim. Bir sonraki adımda ister test scripti ister otomatik doğrulama sistemi kurabiliriz. Hazırsan başlayalım!
+
